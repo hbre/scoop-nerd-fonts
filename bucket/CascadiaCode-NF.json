@@ -1,9 +1,9 @@
 {
-    "version": "2.3.0",
+    "version": "2.3.1",
     "license": "MIT",
     "homepage": "https://github.com/ryanoasis/nerd-fonts",
-    "url": "https://github.com/ryanoasis/nerd-fonts/releases/download/v2.3.0/CascadiaCode.zip",
-    "hash": "417c3e57a1185bcd432592fa7e1c182ac2ccd559e79ba25a5f7778ee346206f8",
+    "url": "https://github.com/ryanoasis/nerd-fonts/releases/download/v2.3.1/CascadiaCode.zip",
+    "hash": "cf6cbed1f52fe7f9085df4e9cc2d5da5e56d82b3c048a39832a5b5dbfd636022",
     "checkver": "github",
     "autoupdate": {
         "url": "https://github.com/ryanoasis/nerd-fonts/releases/download/v$version/CascadiaCode.zip"

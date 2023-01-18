@@ -1,8 +1,8 @@
 {
-    "version": "2.3.0",
+    "version": "2.3.1",
     "license": "MIT",
     "homepage": "https://github.com/ryanoasis/nerd-fonts",
-    "url": "https://github.com/ryanoasis/nerd-fonts/releases/download/v2.3.0/ProggyClean.zip",
+    "url": "https://github.com/ryanoasis/nerd-fonts/releases/download/v2.3.1/ProggyClean.zip",
     "hash": "8192edd15f2bf94ccec1db6e29c63a82d7e73d2b9caaa6d7363d6c18db17d318",
     "checkver": "github",
     "autoupdate": {

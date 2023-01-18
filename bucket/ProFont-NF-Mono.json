@@ -1,8 +1,8 @@
 {
-    "version": "2.3.0",
+    "version": "2.3.1",
     "license": "MIT",
     "homepage": "https://github.com/ryanoasis/nerd-fonts",
-    "url": "https://github.com/ryanoasis/nerd-fonts/releases/download/v2.3.0/ProFont.zip",
+    "url": "https://github.com/ryanoasis/nerd-fonts/releases/download/v2.3.1/ProFont.zip",
     "hash": "76e0d6a68de99ecc40690b847c2bb93813c4992fd8697bd4e2cfaf89a58135f3",
     "checkver": "github",
     "autoupdate": {

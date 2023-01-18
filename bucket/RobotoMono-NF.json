@@ -1,8 +1,8 @@
 {
-    "version": "2.3.0",
+    "version": "2.3.1",
     "license": "MIT",
     "homepage": "https://github.com/ryanoasis/nerd-fonts",
-    "url": "https://github.com/ryanoasis/nerd-fonts/releases/download/v2.3.0/RobotoMono.zip",
+    "url": "https://github.com/ryanoasis/nerd-fonts/releases/download/v2.3.1/RobotoMono.zip",
     "hash": "ed39bddfc400222b81caa43d9c9a3cce6ad1fadfcc2fe46429bae703c7d798be",
     "checkver": "github",
     "autoupdate": {

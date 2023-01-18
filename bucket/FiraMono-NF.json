@@ -1,8 +1,8 @@
 {
-    "version": "2.3.0",
+    "version": "2.3.1",
     "license": "MIT",
     "homepage": "https://github.com/ryanoasis/nerd-fonts",
-    "url": "https://github.com/ryanoasis/nerd-fonts/releases/download/v2.3.0/FiraMono.zip",
+    "url": "https://github.com/ryanoasis/nerd-fonts/releases/download/v2.3.1/FiraMono.zip",
     "hash": "27cf672a21a7c653b1d00debef8fabe0b578180044e80a3fa9bc79ea9bd68432",
     "checkver": "github",
     "autoupdate": {

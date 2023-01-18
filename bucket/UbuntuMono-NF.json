@@ -1,8 +1,8 @@
 {
-    "version": "2.3.0",
+    "version": "2.3.1",
     "license": "MIT",
     "homepage": "https://github.com/ryanoasis/nerd-fonts",
-    "url": "https://github.com/ryanoasis/nerd-fonts/releases/download/v2.3.0/UbuntuMono.zip",
+    "url": "https://github.com/ryanoasis/nerd-fonts/releases/download/v2.3.1/UbuntuMono.zip",
     "hash": "f8dfd23f9f214f083d7ecdeb68b04bf5eb038a984c9c40000b6eef3c8b30ed67",
     "checkver": "github",
     "autoupdate": {

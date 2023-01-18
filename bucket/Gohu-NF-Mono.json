@@ -1,9 +1,9 @@
 {
-    "version": "2.2.2",
+    "version": "2.3.0",
     "license": "MIT",
     "homepage": "https://github.com/ryanoasis/nerd-fonts",
-    "url": "https://github.com/ryanoasis/nerd-fonts/releases/download/v2.2.2/Gohu.zip",
-    "hash": "8797d419f5540f8b15c6bbafb99d50bc372ed703be188ed82ab26540fad062db",
+    "url": "https://github.com/ryanoasis/nerd-fonts/releases/download/v2.3.0/Gohu.zip",
+    "hash": "809a3c956f8555758119dc52006c1baee8b11e8863a85e07ee934b237f4ded85",
     "checkver": "github",
     "autoupdate": {
         "url": "https://github.com/ryanoasis/nerd-fonts/releases/download/v$version/Gohu.zip"

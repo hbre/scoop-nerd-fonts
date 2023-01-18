@@ -1,9 +1,9 @@
 {
-    "version": "2.2.2",
+    "version": "2.3.0",
     "license": "MIT",
     "homepage": "https://github.com/ryanoasis/nerd-fonts",
-    "url": "https://github.com/ryanoasis/nerd-fonts/releases/download/v2.2.2/CodeNewRoman.zip",
-    "hash": "df74171025e40588db3e7b79ecfae4de408692cd75f607fd585e5033b285846b",
+    "url": "https://github.com/ryanoasis/nerd-fonts/releases/download/v2.3.0/CodeNewRoman.zip",
+    "hash": "28676e4e035324913296b88e6a9d838b4a5968bfa05e1ba39eb48ce8d3f6c21f",
     "checkver": "github",
     "autoupdate": {
         "url": "https://github.com/ryanoasis/nerd-fonts/releases/download/v$version/CodeNewRoman.zip"

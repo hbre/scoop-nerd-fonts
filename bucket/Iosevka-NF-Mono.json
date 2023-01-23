@@ -1,9 +1,9 @@
 {
-    "version": "2.3.1",
+    "version": "2.3.2",
     "license": "MIT",
     "homepage": "https://github.com/ryanoasis/nerd-fonts",
-    "url": "https://github.com/ryanoasis/nerd-fonts/releases/download/v2.3.1/Iosevka.zip",
-    "hash": "68e4575f0831b9c32f8add5e3842a4ee4c1d4f980362ced83fbac8149ef4083a",
+    "url": "https://github.com/ryanoasis/nerd-fonts/releases/download/v2.3.2/Iosevka.zip",
+    "hash": "31cc2446dc5a06c49c365377294e929fc7be27b7bb89b6f12c832bfc81bd7302",
     "checkver": "github",
     "autoupdate": {
         "url": "https://github.com/ryanoasis/nerd-fonts/releases/download/v$version/Iosevka.zip"

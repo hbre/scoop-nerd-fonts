@@ -1,9 +1,9 @@
 {
-    "version": "2.3.1",
+    "version": "2.3.2",
     "license": "MIT",
     "homepage": "https://github.com/ryanoasis/nerd-fonts",
-    "url": "https://github.com/ryanoasis/nerd-fonts/releases/download/v2.3.1/Hasklig.zip",
-    "hash": "86d6630ae872706d248ac19c6b2c3d6d1533f3f3d257e32b6e218ee95e383f20",
+    "url": "https://github.com/ryanoasis/nerd-fonts/releases/download/v2.3.2/Hasklig.zip",
+    "hash": "79e6d3ce2b343cd47030a759da33ecf0448b97b8069181dc9f8910b6a8444a1d",
     "checkver": "github",
     "autoupdate": {
         "url": "https://github.com/ryanoasis/nerd-fonts/releases/download/v$version/Hasklig.zip"

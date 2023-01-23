@@ -1,9 +1,9 @@
 {
-    "version": "2.3.1",
+    "version": "2.3.2",
     "license": "MIT",
     "homepage": "https://github.com/ryanoasis/nerd-fonts",
-    "url": "https://github.com/ryanoasis/nerd-fonts/releases/download/v2.3.1/Terminus.zip",
-    "hash": "3a89ee018ac71678f66a5f037f720eed530a2a7ffed6456c0749a9b365df1e03",
+    "url": "https://github.com/ryanoasis/nerd-fonts/releases/download/v2.3.2/Terminus.zip",
+    "hash": "5ecf5f613b409466d432d9b8e00d8fdac49aefa094c9ea34cb4b8f26e0e157fa",
     "checkver": "github",
     "autoupdate": {
         "url": "https://github.com/ryanoasis/nerd-fonts/releases/download/v$version/Terminus.zip"

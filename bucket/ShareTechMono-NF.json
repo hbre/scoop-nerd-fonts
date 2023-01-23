@@ -1,9 +1,9 @@
 {
-    "version": "2.3.1",
+    "version": "2.3.2",
     "license": "MIT",
     "homepage": "https://github.com/ryanoasis/nerd-fonts",
-    "url": "https://github.com/ryanoasis/nerd-fonts/releases/download/v2.3.1/ShareTechMono.zip",
-    "hash": "d11d6f402b6122be39352cf8703fdd149bb2fcbb02c59323b67074eadd8a7948",
+    "url": "https://github.com/ryanoasis/nerd-fonts/releases/download/v2.3.2/ShareTechMono.zip",
+    "hash": "0cf6a5a27484873683c3a479b39cad4144f54c63349cefe03b11a5b1b28f4091",
     "checkver": "github",
     "autoupdate": {
         "url": "https://github.com/ryanoasis/nerd-fonts/releases/download/v$version/ShareTechMono.zip"

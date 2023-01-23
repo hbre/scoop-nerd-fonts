@@ -1,9 +1,9 @@
 {
-    "version": "2.3.1",
+    "version": "2.3.2",
     "license": "MIT",
     "homepage": "https://github.com/ryanoasis/nerd-fonts",
-    "url": "https://github.com/ryanoasis/nerd-fonts/releases/download/v2.3.1/3270.zip",
-    "hash": "525612b687be4b23331d7a396ffaa305f23dabd8d5b7fba0248e9d78e2c399c5",
+    "url": "https://github.com/ryanoasis/nerd-fonts/releases/download/v2.3.2/3270.zip",
+    "hash": "24f7d39406deeb1de6f6799df9bd884661c601df294dc676a2465c3d25c137e1",
     "checkver": "github",
     "autoupdate": {
         "url": "https://github.com/ryanoasis/nerd-fonts/releases/download/v$version/3270.zip"

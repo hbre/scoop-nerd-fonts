@@ -1,9 +1,9 @@
 {
-    "version": "2.3.2",
+    "version": "2.3.3",
     "license": "MIT",
     "homepage": "https://github.com/ryanoasis/nerd-fonts",
-    "url": "https://github.com/ryanoasis/nerd-fonts/releases/download/v2.3.2/BitstreamVeraSansMono.zip",
-    "hash": "b3be6c3721e8e210d60c385e31a222d15973774e300defc139162bddd5ad79a2",
+    "url": "https://github.com/ryanoasis/nerd-fonts/releases/download/v2.3.3/BitstreamVeraSansMono.zip",
+    "hash": "9aa9746fedc9487c20bbb52404a5da361c14504ddf9dc59f778868e492912956",
     "checkver": "github",
     "autoupdate": {
         "url": "https://github.com/ryanoasis/nerd-fonts/releases/download/v$version/BitstreamVeraSansMono.zip"

@@ -1,9 +1,9 @@
 {
-    "version": "2.3.2",
+    "version": "2.3.3",
     "license": "MIT",
     "homepage": "https://github.com/ryanoasis/nerd-fonts",
-    "url": "https://github.com/ryanoasis/nerd-fonts/releases/download/v2.3.2/Meslo.zip",
-    "hash": "a9e9f10754db5dd61e196e2a2fbb88c080a88e2fb4bfd563c4af4b07d32d9462",
+    "url": "https://github.com/ryanoasis/nerd-fonts/releases/download/v2.3.3/Meslo.zip",
+    "hash": "f0b704fd7203238e4d31a09970d6108b72fdeb0803b256dbf4096138a53d913a",
     "checkver": "github",
     "autoupdate": {
         "url": "https://github.com/ryanoasis/nerd-fonts/releases/download/v$version/Meslo.zip"

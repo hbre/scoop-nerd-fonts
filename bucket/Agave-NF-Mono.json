@@ -1,9 +1,9 @@
 {
-    "version": "2.3.2",
+    "version": "2.3.3",
     "license": "MIT",
     "homepage": "https://github.com/ryanoasis/nerd-fonts",
-    "url": "https://github.com/ryanoasis/nerd-fonts/releases/download/v2.3.2/Agave.zip",
-    "hash": "5219a5f08a80e7662a19de0670e82e994d0e0f5ff4fa6b812603f7583f255fbc",
+    "url": "https://github.com/ryanoasis/nerd-fonts/releases/download/v2.3.3/Agave.zip",
+    "hash": "1513d49b4d345b53beeda968f090332824f9e5e6d9a32bab5edd112ea917eb9c",
     "checkver": "github",
     "autoupdate": {
         "url": "https://github.com/ryanoasis/nerd-fonts/releases/download/v$version/Agave.zip"

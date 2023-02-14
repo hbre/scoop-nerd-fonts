@@ -1,9 +1,9 @@
 {
-    "version": "20190603",
+    "version": "20190530",
     "license": "OFL-1.1",
     "homepage": "https://github.com/adobe-fonts/source-han-super-otc",
-    "url": "https://github.com/adobe-fonts/source-han-super-otc/releases/download/20190603/SourceHan.ttc",
-    "hash": "md5:8f12d2fff6492b917496a3718e60cd5b",
+    "url": "https://github.com/adobe-fonts/source-han-super-otc/releases/download/20190530/SourceHan.ttc",
+    "hash": "c19ee5ebe9124ac98bcd2a166b6790202ea14554a219f1d83dc49b24e2bf83b4",
     "checkver": "github",
     "autoupdate": {
         "url": "https://github.com/adobe-fonts/source-han-super-otc/releases/download/$version/SourceHan.ttc",

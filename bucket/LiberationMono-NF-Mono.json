@@ -1,9 +1,9 @@
 {
-    "version": "2.3.3",
+    "version": "3.0.0",
     "license": "MIT",
     "homepage": "https://github.com/ryanoasis/nerd-fonts",
-    "url": "https://github.com/ryanoasis/nerd-fonts/releases/download/v2.3.3/LiberationMono.zip",
-    "hash": "fd0d96fea8ac95ff28f63c3f0e38360e7aa911b9d170d7ec9a3564d4731b218f",
+    "url": "https://github.com/ryanoasis/nerd-fonts/releases/download/v3.0.0/LiberationMono.zip",
+    "hash": "f66aa180b000671b5d0f6498b4065424115d4635538b03b03b083ded819350bd",
     "checkver": "github",
     "autoupdate": {
         "url": "https://github.com/ryanoasis/nerd-fonts/releases/download/v$version/LiberationMono.zip"

@@ -1,9 +1,9 @@
 {
-    "version": "3.0.0",
+    "version": "3.0.1",
     "license": "MIT",
     "homepage": "https://github.com/ryanoasis/nerd-fonts",
-    "url": "https://github.com/ryanoasis/nerd-fonts/releases/download/v3.0.0/Go-Mono.zip",
-    "hash": "9969921572402738cef5e85174160d2b59728df2d5f7949bdf0bcbd2fa2e6c8e",
+    "url": "https://github.com/ryanoasis/nerd-fonts/releases/download/v3.0.1/Go-Mono.zip",
+    "hash": "9ac21958530b64e438e7ba9cd2c2ce26403632cab2f067da21522b2eefd2b710",
     "checkver": "github",
     "autoupdate": {
         "url": "https://github.com/ryanoasis/nerd-fonts/releases/download/v$version/Go-Mono.zip"

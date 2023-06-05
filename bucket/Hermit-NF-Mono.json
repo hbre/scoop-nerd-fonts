@@ -1,9 +1,9 @@
 {
-    "version": "3.0.1",
+    "version": "3.0.2",
     "license": "MIT",
     "homepage": "https://github.com/ryanoasis/nerd-fonts",
-    "url": "https://github.com/ryanoasis/nerd-fonts/releases/download/v3.0.1/Hermit.zip",
-    "hash": "657795284e1378994bad72f053e14aae2e1f377b5c53b68a47011ad57988797e",
+    "url": "https://github.com/ryanoasis/nerd-fonts/releases/download/v3.0.2/Hermit.zip",
+    "hash": "b35b2cda374dd1522d3831b659eb91636c943f6b158d67ec51f91b1deb31e701",
     "checkver": "github",
     "autoupdate": {
         "url": "https://github.com/ryanoasis/nerd-fonts/releases/download/v$version/Hermit.zip"

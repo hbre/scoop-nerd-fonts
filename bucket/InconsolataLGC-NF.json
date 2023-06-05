@@ -1,9 +1,9 @@
 {
-    "version": "3.0.1",
+    "version": "3.0.2",
     "license": "MIT",
     "homepage": "https://github.com/ryanoasis/nerd-fonts",
-    "url": "https://github.com/ryanoasis/nerd-fonts/releases/download/v3.0.1/InconsolataLGC.zip",
-    "hash": "001f4b4897ef690ea21a78d998ee502da2d64eca6877a3ca0a4ef42c1ade8ba8",
+    "url": "https://github.com/ryanoasis/nerd-fonts/releases/download/v3.0.2/InconsolataLGC.zip",
+    "hash": "34540145366fc34f1cc558fee250894a6dcd876446ff84050f28cf2d18760811",
     "checkver": "github",
     "autoupdate": {
         "url": "https://github.com/ryanoasis/nerd-fonts/releases/download/v$version/InconsolataLGC.zip"

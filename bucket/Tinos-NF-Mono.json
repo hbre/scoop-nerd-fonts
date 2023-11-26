@@ -1,9 +1,9 @@
 {
-    "version": "3.1.0",
+    "version": "3.1.1",
     "license": "MIT",
     "homepage": "https://github.com/ryanoasis/nerd-fonts",
-    "url": "https://github.com/ryanoasis/nerd-fonts/releases/download/v3.1.0/Tinos.zip",
-    "hash": "dd47a45a1d534bc34635df29a711b96b7c1b2422517bbae6c9a5974ac5461cc9",
+    "url": "https://github.com/ryanoasis/nerd-fonts/releases/download/v3.1.1/Tinos.zip",
+    "hash": "be3072b0af54b699a99385a74572a2f4b6769d6960cbcdfc691db2b22b257bfd",
     "checkver": "github",
     "autoupdate": {
         "url": "https://github.com/ryanoasis/nerd-fonts/releases/download/v$version/Tinos.zip"

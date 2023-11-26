@@ -1,9 +1,9 @@
 {
-    "version": "3.1.0",
+    "version": "3.1.1",
     "license": "MIT",
     "homepage": "https://github.com/ryanoasis/nerd-fonts",
-    "url": "https://github.com/ryanoasis/nerd-fonts/releases/download/v3.1.0/JetBrainsMono.zip",
-    "hash": "5b1b315b0d921ac4e7df6f8cc4f8d54790d6252893cd3ba69aa88810c3fcbf0d",
+    "url": "https://github.com/ryanoasis/nerd-fonts/releases/download/v3.1.1/JetBrainsMono.zip",
+    "hash": "6481301aaeab1d537c7eef436698a7511e74090cad90a4a7ef6879e2848d21aa",
     "checkver": "github",
     "autoupdate": {
         "url": "https://github.com/ryanoasis/nerd-fonts/releases/download/v$version/JetBrainsMono.zip"
